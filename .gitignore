@@ -1,0 +1,15 @@
+# Target directory (Maven build artifacts)
+/target/
+
+# IntelliJ IDEA files
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Crash logs
+err_pid*
+
+# OS temporary files
+Thumbs.db
+Desktop.ini
